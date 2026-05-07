@@ -1,0 +1,12 @@
+# 하네스 런타임
+_workspace/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
